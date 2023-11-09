@@ -3,13 +3,41 @@
     overflow: hidden;
     border: 1px solid #efe7da;
     width: 100%;
-    height: 50px;
+    max-width:100%;
+    height:55px;
     top: 0;
     left: 0;
     position: absolute;
     background-color: #efe7da;
     transition: top 0.5s;
     z-index: 1;
+    @media screen and (max-width:768px) { 
+        .unregularList{
+            font-size: 15px;
+            margin-left: -10px;
+        }
+        .lista{
+            margin-top: 5px;
+            margin-left: 30px;
+        }
+        .linku{
+            margin-left: -15px;
+        }
+        .logo{
+            width: 35px;
+            height: 35px;
+            margin-top: -10px;
+            margin-left: -15px;
+        }
+    }
+    
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: -25px;
+    float: left;
+    margin-left: -70px;
 }
 .navbar.linku{
     display: block;
@@ -18,10 +46,11 @@
     list-style-type: none;
     font-size: 20px;
     width: 100%;
+    margin-left: 250px;
 }
 .lista{
     float: left;
-    margin-left: 25px;
+    margin-left: 30px;
     margin-top: -5px;
 }
 .linku{
@@ -32,4 +61,7 @@
 .linku:hover{
     color: #c1b6a4;
     text-decoration: underline;
+}
+.linku:active{
+    color:#f6f5ec;
 }
