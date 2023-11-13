@@ -1,0 +1,12 @@
+.footer{
+    display: block;
+    border: 1px solid #efe7da;
+    background-color: #efe7da;
+    width: 104%;
+    margin-left: -50px;
+    height: auto;
+    color: #b29079;
+}
+.footerUl{
+    margin-left: 50px;
+}

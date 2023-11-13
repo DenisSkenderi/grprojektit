@@ -65,3 +65,18 @@
 .linku:active{
     color:#f6f5ec;
 }
+#kontakto{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2% 5% 2% 5%;
+    background-color: #b29079;
+    color: #b29079;
+    transition-property: background-color;
+    transition-duration: 1s;
+    transition-timing-function: ease-out;
+    transition-delay: 0.25s;
+}
+#kontakto:hover{
+    background-color: white;
+  cursor: pointer;
+}
