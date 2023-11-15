@@ -83,7 +83,7 @@
 .footLinku:active{
     color:#f6f5ec;
 }
-.adresaDiv{
+.adresaDiv{border: 1px solid none;
     width: 300px;
     height: 200px;
     margin-left: 750px;
@@ -93,7 +93,8 @@
     text-align: center;
 }
 .adresaUl{
-    font-size: 20px;
+    width: 350px;
+    font-size: 16px;
     margin-top: -20px;
     margin-left: 50px;
 }
