@@ -1,4 +1,5 @@
 .footer{
+    margin-top: auto;
     padding-left: 50px;
     display: block;
     border: 1px solid #efe7da;
@@ -7,94 +8,100 @@
     margin-left: -50px;
     height: auto;
     color: #b29079;
+    @media screen and (max-width:768px) { 
+        .unregularList{
+            font-size: 15px;
+            margin-left: -10px;
+        }
+        .twitter{
+            width: 25px;
+            height: 25px;
+        }
+        .gmail{
+            width: 29px;
+            height: 29px;
+        }
+        .instagram{
+            width: 25px;
+            height: 25px;
+        }
+        .ftLogo{
+            width: 90px;
+            height: 90px;
+            margin-top: -10px;
+            margin-left: 170px;
+        }
+        .emriKompanis{
+            font-size: 15px;
+            margin-left: 115px;
+        }
+        .fototELogove{
+            margin-left: 55px;
+        }
+        .adresaDiv{
+            margin-left: -4%;
+            margin-left: 50px;
+            margin-top: 50px;
+        }
+        .copyrightList{
+            font-size: 17px;
+            margin-left: -90px;
+        }
+        .footLinku{
+            font-size: 17px;
+            margin-left: -75px;
+        }
+    }
 }
-.footerUl{
-    margin-left: 50px;
+.adresa{
+    font-family: Arial, Helvetica, sans-serif;
 }
-.instagramLi{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 120px;
-    cursor: inherit;
-    margin-top: -37px;
+.titulli{
+    margin-left: 550px;
 }
-.ftLogo{
-    width: 200px;
-    height: 100px;
-    margin-left: 80px;
-}
-.emriKompanis{
-    margin-bottom: -50px;
-    margin-left: 50px;
+.email{
     font-size: 20px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -16px;
 }
-.instagram{
-    width: 30px;
-    height: 30px;
-}
-.twitter{
-    width: 30px;
-    height: 30px;
-    margin-left: 10px;
-}
-.gmail{
-    width: 30px;
-    height: 30px;
-    margin-left: 10px;
-}
-.fototELogove{
-    height: 30px;
-    width: 200px;
-    margin-top: 45px;
-    padding-left: 115px;
-}
-.footerHr{
-    width: 95%;
+.emailAdresa{
+    border: none;
+    background-color: #efe7da;
+    outline: none;
     color: #b29079;
-    border: 1px solid #b29079;
-    margin-left: -0.0px;
 }
-.copyrightList{
-    margin-left: 60px;
+.borderii{
+    border-top: 2px solid #b29079;
+    width: 189px;
 }
-.copyright{
-    font-size: 20px;
+.infopldh{
+    margin-left: 50px;
 }
-.listaCompanis{
-    margin-left: 80px;
-    margin-top: -43px;
+.copy{
+    margin-left: 270px;
+    margin-top: -25px;
 }
-.linqet{
-    margin-left: 85%;
-    margin-top: -22px;
-    list-style-type: none;
-}
-.footLista{
-    font-size: 20px;
-}
-.footLinku{
+.link1{
+    margin-left: 45px;
     text-decoration: none;
     color: #b29079;
 }
-.footLinku:hover{
-    color: #c1b6a4;
-    text-decoration: underline;
+.link2{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #b29079;
 }
-.footLinku:active{
-    color:#f6f5ec;
+.social{
+    margin-left: 30px;
 }
-.adresaDiv{border: 1px solid none;
-    width: 300px;
-    height: 200px;
-    margin-left: 750px;
-    margin-top: -150px;
+.partner{
+    margin-left: 550px;
+    margin-top: -130px;
 }
-.adresaH2{
-    text-align: center;
+.lokacioni{
+    margin-left: 1000px;
+    margin-top: -180px;
 }
-.adresaUl{
-    width: 350px;
-    font-size: 16px;
-    margin-top: -20px;
-    margin-left: 50px;
+.linqe{
+    margin-left: 100px;
 }

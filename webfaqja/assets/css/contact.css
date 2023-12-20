@@ -1,11 +1,35 @@
 body{
     overflow-x: hidden;
 }
+.footer{
+    position: absolute;
+}
 h1{
     color:blue
 }
 .Mesazhi{
     width: 250px;
     height:300px;
-  
+}
+.kontakti{
+    margin-left: 450px;
+}
+.kutijaKontaktuese{
+    border: 1px solid gray;
+    box-shadow: 8px 8px gainsboro;
+    width: 450px;
+    height: 300px;
+    margin-left: 550px;
+    text-align: center;
+}
+.tel{
+    margin-top: 50px;
+    margin-left: -100px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.adresa{
+    margin-left: 35px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
