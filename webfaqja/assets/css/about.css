@@ -7,10 +7,11 @@ body{
 .foto1{
     width: 300px;
     height: 250px;
+    margin-top: 50px;
 }
 .emrriifotos{
     margin-left: 350px;
-    margin-top: -200px;
+    margin-top: -250px;
 
 }
 .description{
@@ -35,7 +36,7 @@ body{
 }
 .emrriifotos2{
     margin-left:-350px;
-    margin-top: -200px;
+    margin-top: -250px;
     
 }
 .description2{
