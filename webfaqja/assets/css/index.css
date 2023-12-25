@@ -82,3 +82,103 @@ section p {
 .section1{
     margin-top: 450px;
 }
+
+
+
+
+/*Produktet*/
+#row{
+    border: 2px solid white;
+    height: 350px;
+    width: 95%;
+    margin-left: 35px;
+}
+#produkti1{
+    cursor: pointer;
+    border: 2px solid #b29079;
+    width: 250px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 20px;
+    
+}
+.foto1{
+    margin-top: 25px;
+    border-radius: 25px;
+    width: 110px;
+    margin-left: 70px;
+}
+#produkti1:hover{
+    background-color: #efe7da;
+}
+.sofa{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 25px;
+    color: #b29079;
+}
+.cmimi{
+    text-align: center;
+    font-size: 19px;
+    color: #b29079;
+}
+.blej{
+    width: 100px;
+    text-align: center;
+    margin-left: 70px;
+    background-color: transparent;
+    color: burlywood;
+    border: 2px solid #b29079;
+}
+.blej:hover{
+    background-color: #b29079;
+}
+
+#produkti2{
+    cursor: pointer;
+    border: 2px solid #b29079;
+    width: 250px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 300px;
+    
+}
+#produkti2:hover{
+    background-color: #efe7da;
+}
+#produkti3{
+    cursor: pointer;
+    border: 2px solid #b29079;
+    width: 250px;
+    height: 300px;
+    margin-top: -323px;
+    margin-left: 620px;
+    
+}
+#produkti3:hover{
+    background-color: #efe7da;
+}
+#produkti4{
+    cursor: pointer;
+    border: 2px solid #b29079;
+    width: 250px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 910px;
+    
+}
+#produkti4:hover{
+    background-color: #efe7da;
+}
+#produkti5{
+    cursor: pointer;
+    border: 2px solid #b29079;
+    width: 250px;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 1200px;
+    
+}
+#produkti5:hover{
+    background-color: #efe7da;
+}
