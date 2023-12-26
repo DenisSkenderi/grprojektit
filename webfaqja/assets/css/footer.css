@@ -1,57 +1,35 @@
+@media screen and (max-width:600px){
+    .footer{
+        width: 100;
+    }
+    .loginiEmail{
+        margin-left: 35px;
+    }
+    .pikatTona{
+        margin-top: 220px;
+        margin-left: -965px;
+    }
+    .listaLokale{
+        margin-left: -950px;
+    }
+    .gmail1{
+        width: 10px;
+    }
+    .instagram1{
+        width: 10px;
+    }
+    .twitter1{
+        width: 10px;
+    }
+}
 .footer{
-    margin-top: auto;
     padding-left: 50px;
     display: block;
     border: 1px solid #efe7da;
     background-color: #efe7da;
-    width: 104%;
-    margin-left: -50px;
+    width: 105%;
     height: auto;
     color: #b29079;
-    @media screen and (max-width:768px) { 
-        .unregularList{
-            font-size: 15px;
-            margin-left: -10px;
-        }
-        .twitter{
-            width: 25px;
-            height: 25px;
-        }
-        .gmail{
-            width: 29px;
-            height: 29px;
-        }
-        .instagram{
-            width: 25px;
-            height: 25px;
-        }
-        .ftLogo{
-            width: 90px;
-            height: 90px;
-            margin-top: -10px;
-            margin-left: 170px;
-        }
-        .emriKompanis{
-            font-size: 15px;
-            margin-left: 115px;
-        }
-        .fototELogove{
-            margin-left: 55px;
-        }
-        .adresaDiv{
-            margin-left: -4%;
-            margin-left: 50px;
-            margin-top: 50px;
-        }
-        .copyrightList{
-            font-size: 17px;
-            margin-left: -90px;
-        }
-        .footLinku{
-            font-size: 17px;
-            margin-left: -75px;
-        }
-    }
 }
 .adresa{
     font-family: Arial, Helvetica, sans-serif;
@@ -78,11 +56,15 @@
     margin-left: 50px;
 }
 .copy{
-    margin-left: 270px;
     margin-top: -25px;
+    margin-left: 990px;
+}
+.vija{
+    border: 3px solid #b29079;
+    margin-left: -50px;
 }
 .link1{
-    margin-left: 45px;
+    margin-left: -25px;
     text-decoration: none;
     color: #b29079;
 }
@@ -102,6 +84,31 @@
     margin-left: 1000px;
     margin-top: -180px;
 }
-.linqe{
-    margin-left: 100px;
+.loginiEmail{
+    height: 20px;
+    font-size: 12px;
+    background-color: #b29079;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    border: 1px solid #b29079;
+}
+.pitakTona{
+    margin-left: -15px;
+    margin-top: 2px;
+}
+.gmail1{
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+}
+.instagram1{
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+}
+.twitter1{
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
 }

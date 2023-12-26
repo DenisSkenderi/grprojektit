@@ -27,7 +27,6 @@ body{
     height: 300px;
     margin-top: 25px;
     margin-left: 20px;
-    
 }
 .foto1{
     margin-top: 25px;
@@ -68,7 +67,7 @@ body{
     height: 300px;
     margin-top: -300px;
     margin-left: 300px;
-    
+    line-break: normal;
 }
 #produkti2:hover{
     background-color: #efe7da;
