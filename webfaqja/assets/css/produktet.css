@@ -18,7 +18,7 @@ body{
     border: 2px solid white;
     height: 350px;
     width: 95%;
-    margin-left: 35px;
+    margin-left: 15px;
 }
 #produkti1{
     cursor: pointer;
@@ -66,7 +66,7 @@ body{
     width: 250px;
     height: 300px;
     margin-top: -300px;
-    margin-left: 300px;
+    margin-left: 320px;
     line-break: normal;
 }
 #produkti2:hover{
@@ -77,7 +77,7 @@ body{
     border: 2px solid #b29079;
     width: 250px;
     height: 300px;
-    margin-top: -323px;
+    margin-top: -300px;
     margin-left: 620px;
     
 }
@@ -90,7 +90,7 @@ body{
     width: 250px;
     height: 300px;
     margin-top: -300px;
-    margin-left: 910px;
+    margin-left: 920px;
     
 }
 #produkti4:hover{
@@ -102,7 +102,7 @@ body{
     width: 250px;
     height: 300px;
     margin-top: -300px;
-    margin-left: 1200px;
+    margin-left: 1220px;
     
 }
 #produkti5:hover{
