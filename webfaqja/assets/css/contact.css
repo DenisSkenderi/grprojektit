@@ -19,6 +19,7 @@ h1{
     box-shadow: 8px 8px gainsboro;
     width: 450px;
     height: 520px;
+    color: black;
     margin-left: 550px;
     text-align: center;
 }
@@ -32,4 +33,27 @@ h1{
     margin-left: 35px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+}
+#email{
+    margin-left: -23px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+@media screen and (max-width:600px){
+    .kutijaKontaktuese{
+        margin-left: 27px;
+        width: 400px;
+    }
+    #mapav{
+        width: 350px;
+    }
+    .tel{
+        margin-left: -140px;
+    }
+    .adresa{
+        margin-left: -5px;
+    }
+    #email{
+        margin-left: -55px;
+    }
 }

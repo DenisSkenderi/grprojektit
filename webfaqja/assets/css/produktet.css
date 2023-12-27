@@ -108,3 +108,42 @@ body{
 #produkti5:hover{
     background-color: #efe7da;
 }
+@media screen and (max-width:600px){
+    #navbar{
+        width: 100%;
+    }
+    .text1{
+        margin-top: 35px;
+    }
+    #row{
+        border: 1px solid white;
+        height: auto;
+        padding-left: 70px;
+    }
+    #produkti1{
+        margin-left: 0px;
+    }
+    #produkti2{
+        margin-top: 50px;
+        margin-left: 0px;
+    }
+    #produkti3{
+        margin-top: 50px;
+        margin-left: 0px;
+    } #produkti4{
+        margin-top: 50px;
+        margin-left: 0px;
+    } #produkti5{
+        margin-top: 50px;
+        margin-left: 0px;
+    }.infopldh{
+        font-size: 13px;
+    }
+    .partneret{
+        margin-top: 250px;
+        margin-left: -520px;
+    }
+    .listaPartnerit{
+        margin-left: -505px;
+    }
+}
